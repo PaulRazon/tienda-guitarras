@@ -43,14 +43,15 @@ Make sure to deploy the output of `remix build`
 
 ![image](https://github.com/PaulRazon/tienda-guitarras/assets/73920749/a92b451c-ace8-4249-a898-5cc2e6e08a26)
 
-#NOSOTROS
+# NOSOTROS
 ![image](https://github.com/PaulRazon/tienda-guitarras/assets/73920749/472df280-d71b-4d7f-9b9f-50fed47eefb6)
-#TIENDA
+# TIENDA
 ![image](https://github.com/PaulRazon/tienda-guitarras/assets/73920749/a678824f-0f1d-4c5f-bedb-45c6388bdc11)
 
-![image](https://github.com/PaulRazon/tienda-guitarras/assets/73920749/ddb3db3d-ee16-4d1b-9c27-#55630f9e5a2d)
+![image](https://github.com/PaulRazon/tienda-guitarras/assets/73920749/b9d35daf-7d3d-4caa-a0b0-0be394316c47)
 
-#CARRITO
+
+# CARRITO
 
 ![image](https://github.com/PaulRazon/tienda-guitarras/assets/73920749/ce4172f1-3c6e-46b1-ab1d-a72373c2527f)
 
