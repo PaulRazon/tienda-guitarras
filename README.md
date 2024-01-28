@@ -1,4 +1,4 @@
-#URL DE LA PAGINA EN DEPLOYMENT en VERCEL y RENDER: (https://tienda-guitarras.vercel.app/)
+# URL DE LA PAGINA EN DEPLOYMENT en VERCEL y RENDER: (https://tienda-guitarras.vercel.app/)
 
 # Screenshot funcionando - con la API generada en Strappi:
 # INDEX
